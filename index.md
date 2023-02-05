@@ -2,33 +2,10 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Projects
+#### [Text Analysis of Congress](https://www.linkedin.com/pulse/top-5-policies-your-representatives-talk-craig-asberry/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+In this project, I scraped speeches from the Government Publishing Office and parsed it using Python. Then, I analyzed the speeches using the StructuralTopicModel package in R. This post is a small amount of the analysis included in a part of one chapter in my dissertation.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
